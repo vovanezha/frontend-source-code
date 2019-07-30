@@ -1,5 +1,7 @@
 # List of sites with source code
 
+The more code you will read the more ideas can be received and the more potential errors can be avoided
+
 ## React
 
 - [HeadlessCMS.org](https://headlesscms.org) ([source](https://github.com/netlify/headlesscms.org))
