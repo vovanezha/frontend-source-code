@@ -18,6 +18,7 @@ The more code you will read the more ideas can be received and the more potentia
 - [HeadlessCMS.org](https://headlesscms.org) ([source](https://github.com/netlify/headlesscms.org))
 - [StaticGen.com](https://staticgen.com) ([source](https://github.com/netlify/staticgen))
 - [Stoplight: Best in class API Design, Docs, Mocking, and Testing](https://stoplight.io) ([source](https://github.com/stoplightio/stoplight.io))
+- [OpenDota - Dota 2 data](https://www.opendota.com) ([source](https://github.com/odota/web))
 
 ### Tools
 
