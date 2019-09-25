@@ -30,3 +30,9 @@ The more code you will read the more ideas can be received and the more potentia
 - [TannerLinsley.com](https://tannerlinsley.com) ([source](https://github.com/tannerlinsley/tannerlinsley.com))
 - [Dan Webb - Personal Website](https://danwebb.co) ([source](https://github.com/DanWebb/danwebb.co))
 - [Fourth Drive - Music Artist](https://fourthdrive.com)  ([source](https://gitlab.com/galmargalit1/fourth-drive))
+
+## Pure Web
+
+### Personal blogs
+
+- [Igor Kamyshev — Personal Website](https://kamyshev.me) ([source](https://github.com/igorkamyshev/kamyshev.me.src/))
