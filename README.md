@@ -31,7 +31,7 @@ The more code you will read the more ideas can be received and the more potentia
 - [Dan Webb - Personal Website](https://danwebb.co) ([source](https://github.com/DanWebb/danwebb.co))
 - [Fourth Drive - Music Artist](https://fourthdrive.com)  ([source](https://gitlab.com/galmargalit1/fourth-drive))
 
-### Not a React
+## Pure Web
 
 ### Personal blogs
 
