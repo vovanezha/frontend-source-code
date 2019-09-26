@@ -6,7 +6,7 @@ The more code you will read the more ideas can be received and the more potentia
 
 ### Sites
 
-- [Sentry](https://sentry.io) ([source](https://github.com/getsentry/sentry))
+- [Sentry](https://sentry.io) ([source](https://github.com/getsentry/sentry)) - Huge app with backend on Python. Has role based functionality access. Main stack: **React**, **Reflux**, **Typescript**, **Emotion**.
 - [Buildkit]( https://buildkite.com/) ([source](https://github.com/buildkite/site))
 - [Buildkit (archived)]( https://buildkite.com/) ([source](https://github.com/buildkite/frontend))
 - [Spectrum chat](https://spectrum.chat) ([source](https://github.com/withspectrum/spectrum))
